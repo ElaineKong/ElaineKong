@@ -26,10 +26,9 @@ Currently, I lead a team of talented developers, working on cutting-edge project
 
 
 ### 📈 GitHub Stats
-![Elaine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElaineKong&theme=radical)
+![Elaine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElaineKong&theme=github)
+![Elaine's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElaineKong&theme=highcontrast)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElaineKong&layout=compact&theme=radical)
-![Elaine's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ElaineKong&theme=radical)
-[![CodeFactor](https://www.codefactor.io/repository/github/ElaineKong/repository-name/badge)](https://www.codefactor.io/repository/github/ElaineKong/repository-name)
 
 
 ### 💬 Let's Connect!
